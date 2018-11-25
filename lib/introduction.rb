@@ -1,10 +1,6 @@
 
 
 
-def Dees_Method(phrase)
-  puts "This is my #{phrase}"
-end
-
-def say_hello(name1, name2)
-  puts "hello #{name1} and #{name2}"
+def introduction(name)
+  puts "Hi, my name is #{name}."
 end
