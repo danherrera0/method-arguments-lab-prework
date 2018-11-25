@@ -1,5 +1,8 @@
+
+
+
 def Dees_Method(phrase)
-  puts phrase
+  puts "This is my #{phrase}"
 end
 
 def say_hello(name1, name2)
